@@ -118,7 +118,7 @@ while place_order:
                     }
                     i += 1
             # 2. Ask customer to input menu item number
-            menu_selection = input("Please enter your selection")
+            menu_selection = input("Please enter your selection: ")
 
             # 3. Check if the customer typed a number
             if menu_selection.isdigit():
@@ -142,11 +142,13 @@ while place_order:
                         
                     # Tell the customer that their input isn't valid
                     else:
-                        print(f"{menu_quantity} is not numeric. Please enter a number")
+                        print(f"{menu_quantity} is not numeric. Please enter a number.")
 
                 # Tell the customer they didn't select a menu option
                 else:
-                    print(f"Selection is not available")
+                    print(f"Selection is not available.")
+            else:
+                print(f"Please enter a number.")
 
         else:
             # Tell the customer they didn't select a menu option

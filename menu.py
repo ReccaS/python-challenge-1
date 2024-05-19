@@ -210,7 +210,7 @@ while l < len(Order_List):
     pre_price_space = 31 - len(str(current_item)) - post_item_space - len(str(current_price))
     #post_price_space = 36 - len(str(current_item)) - len(str(current_price))
     pre_quantity_space = 41 - len(str(current_item)) - post_item_space - pre_price_space - len(str(current_price)) - len(str(current_quantity))
-
+    
     # 9. Create space strings
     post_item_spaces = " " * post_item_space
     pre_price_spaces = " " * pre_price_space
@@ -226,8 +226,10 @@ while l < len(Order_List):
 # Multiply the price by quantity for each item in the order list, then sum()
 # and print the prices.
 Total = sum(item["Price"] * item["Quantity"] for item in Order_List)
+total_space = 33 - 6 - len(str(Total))
+total_spaces = " " * total_space
 
-print(f"total={Total}")
+print(f"Total={total_spaces}${Total}")
 
 print("Thank You")
 

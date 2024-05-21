@@ -43,10 +43,6 @@ If you type yes 'Y' the process will start over, allowing you to select from the
 11. Print the line for the receipt using the format in Step 8.
 12. Upon exiting the for loop, use list comprehension and sum() to calculate the total price of the order and display it to the customer. Make sure you multiply the price by the quantity in your list comprehension.
     
-## Contact Information
-
-Created by [ReccaS](https://github.com/ReccaS) - feel free to contact me! 
-
 ## References
 Python code file from edX Boot Camps LLC, and is intended for educational purposes only.
 

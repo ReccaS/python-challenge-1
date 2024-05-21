@@ -56,5 +56,10 @@ The starter code provided includes the code for printing the menu for the custom
     
 ## Contact Information
 
-Created by ReccaS 
+Created by [ReccaS](https://github.com/ReccaS) - feel free to contact me! 
+
+## Sources
+**SMU Bootcamp Module Challenge**
+
+
 

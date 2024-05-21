@@ -1,12 +1,13 @@
-# Project Title
+# Title
 Food Truck Ordering system
 
 # Description
+As part of our Bootcamp Challenge, we will be designing an interactive ordering system from a food truck menu using the skills we've learned in Python coding. 
 This code provides a simple way to order a variety of food from the Food Truck Menu. When you run the code, you will see a welcome message: 'Welcome to Rebecca's Food Truck.' You will then be asked to choose a menu category to order from. The available categories are Snacks, Meals, Drinks, and Desserts, each with a corresponding number for selection.
 
 After selecting a category (for example, No. 1 for Snacks), you will be prompted to choose a specific item within that category. Once you make your selection, you will be asked how many of that item you would like to order. After entering the quantity, you will be asked if you would like to continue ordering.
 
-If you type 'Yes,' the process will start over, allowing you to select from the main menu categories again. If you type 'No,' a receipt will be printed, listing all the items you ordered, their quantities, and the total price.
+If you type yes 'Y' the process will start over, allowing you to select from the main menu categories again. If you type no, 'N' a receipt will be printed, listing all the items you ordered, their quantities, and the total price.
 
 # Usage
 **Before You Begin**
@@ -58,8 +59,8 @@ The starter code provided includes the code for printing the menu for the custom
 
 Created by [ReccaS](https://github.com/ReccaS) - feel free to contact me! 
 
-## Sources
-**SMU Bootcamp Module Challenge**
+## References
+Python code file from edX Boot Camps LLC, and is intended for educational purposes only.
 
 
 

@@ -9,19 +9,7 @@ After selecting a category (for example, No. 1 for Snacks), you will be prompted
 
 If you type yes 'Y' the process will start over, allowing you to select from the main menu categories again. If you type no, 'N' a receipt will be printed, listing all the items you ordered, their quantities, and the total price.
 
-# Usage
-**Before You Begin**
-
-Before starting the assignment, be sure to complete the following steps:
-
-  * Create a new repository for this project called python-challenge-1. Do not add this homework assignment to an existing repository.
-  * Clone the new repository to your computer.
-  * Inside your local Git repository, add the starter file menu.py from your file downloads.
-  * Push these changes to GitHub or GitLab.
-    
-**Challenge Instruction**
-
-The starter code provided includes the code for printing the menu for the customer, which was part of one of your Day 3 activities. You will be adapting this menu to allow customers to place an order, which includes storing the customer's order and printing the receipt with the total price of all items ordered. the starter code includes comments, which you may use as a guide for the steps you need to add. 
+# Instructions
 
 **Order System**
 

@@ -1,5 +1,5 @@
 # Title
-Food Truck Ordering system
+Food Truck Ordering System
 
 # Description
 As part of our Bootcamp Challenge, we will be designing an interactive ordering system from a food truck menu using the skills we've learned in Python coding. 
